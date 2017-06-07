@@ -1,4 +1,4 @@
-## CI_with_Angular_ui-_rout
+## CI with Angular ui rout
 *This is the project with basic CRUD operation is done with the help of AngularJs as front end and CodeIgniter as back end. 
 Here I have used AngularJs ui-rout.*
 
